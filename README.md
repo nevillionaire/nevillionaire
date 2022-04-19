@@ -1,7 +1,10 @@
 const tu = {
     pronouns: "He" | "Him",
-    code: ["JavaScript", "TypeScript", "Java", "Python", "Ruby"],
+    
+    code: ["C", "Shell", "Java", "Python", "Ruby"],
+    
     askMeAbout: ["photography", "dnd"],
+    
     technologies: {
         frontEnd: {
             js: ["React"]
