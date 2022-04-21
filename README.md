@@ -1,6 +1,6 @@
-## Hola 👋, Man Like Nevillionaire
+## Hola👋, Man Like Nevillionaire :wink:
   
- It's about to get hot in here:satisfied::wink: 
+ It's about to get hot in here:satisfied: 
 - 🤔 You can check out my repositories. If you have improvements to do, don't hesitate
 - 🌱 Digital creator 
 - :muscle: He who beholds Mjolnir 
