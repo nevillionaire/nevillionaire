@@ -29,7 +29,9 @@
 
 ### Github stats
 
-[![Nevillionaire's github stats](https://github-readme-stats.vercel.app/api?username=Nevillionaire&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/Nevillionaire/github-readme-stats)
+[![Nevillionaire's github stats](https://github-readme-stats.vercel.app/api?username=Nevillionaire&count_private=true&show_icons=true&theme=tokyonight&hide_rank=false)](https://github.com/Nevillionaire/github-readme-stats)
+
+
 
 
 
