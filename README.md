@@ -1,6 +1,7 @@
-[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
+<img src="https://badges.pufler.dev/visits/nevillionaire/nevillionaire?style=flat-square&color=red&logo=github&a=0">
+
 ## Hola👋, Man Like Nevillionaire :wink:
-  
+
  It's about to get hot in here:satisfied: 
 - 🤔 You can check out my repositories. If you have improvements to do, don't hesitate
 - 🌱 Digital creator 
@@ -43,6 +44,6 @@
 
 
 
-
 ### Contribution graph
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Nevillionaire)  
+
