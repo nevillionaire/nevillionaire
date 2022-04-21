@@ -1,3 +1,4 @@
+[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
 ## Hola👋, Man Like Nevillionaire :wink:
   
  It's about to get hot in here:satisfied: 
@@ -31,8 +32,7 @@
 
 [![Nevillionaire's github stats](https://github-readme-stats.vercel.app/api?username=Nevillionaire&count_private=true&show_icons=true&theme=tokyonight&hide_rank=false)](https://github.com/Nevillionaire/github-readme-stats)
 
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nevillionaire&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -46,4 +46,3 @@
 
 ### Contribution graph
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Nevillionaire)  
-
