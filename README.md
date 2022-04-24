@@ -5,7 +5,7 @@
  It's about to get hot in here:satisfied: 
 - 🤔 You can check out my repositories. If you have improvements to do, don't hesitate
 - 🌱 Digital creator 
-- :muscle: He who beholds Mjolnir 
+- :muscle: The beholder of Mjolnir 
 - 😄 Pronouns: ...Him, He
 - 📫 Find me here:
    -    🏢: [Instagram](https://www.instagram.com/nevillionaire)
@@ -14,7 +14,7 @@
  
 ### ⚡ Here is one for you: 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Do what you have to do, just don't give up - Nevillionaire  ❞</i>
+<i>❝“Don't give up, no matter what - Nevillionaire  ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
