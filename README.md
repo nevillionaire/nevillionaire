@@ -47,13 +47,3 @@
 ### Contribution graph
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Nevillionaire)  
 
-
-# Contributions
-(in the last 365 days, languages pie based on number of commits)
-
-![](./profile-3d-contrib/profile-night-green.svg)
-
-<br/>
-<h3 align="center">
-	 Check my projects and leave a ⭐️
-</h3>
