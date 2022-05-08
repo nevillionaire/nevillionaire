@@ -1,12 +1,13 @@
 <img src="https://badges.pufler.dev/visits/nevillionaire/nevillionaire?style=flat-square&color=red&logo=github&a=0">
 
-## Hola👋, Man Like Nevillionaire :wink:
+## Man Like Nevillionaire 👋 :wink:
+It's about to get hot in here:satisfied:
 
- It's about to get hot in here:satisfied: 
+![image_processing20210904-11206-1q9iozi](https://user-images.githubusercontent.com/75064256/167314279-77d169e6-73e3-4d23-9233-c9e8bf13c3d7.gif)
+
 - 🤔 You can check out my repositories. If you have improvements to do, don't hesitate
 - 🌱 Digital creator 
 - :muscle: The beholder of Mjolnir 
-- 😄 Pronouns: ...Him, He
 - 📫 Find me here:
    -    🏢: [Instagram](https://www.instagram.com/nevillionaire)
                                        🏛️: [organization](https://www.plausemedia.co.ke)
@@ -14,7 +15,7 @@
  
 ### ⚡ Here is one for you: 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Don't give up, no matter what - Nevillionaire  ❞</i>
+<i>❝“Whatever it takes - Captain America  ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
