@@ -1,7 +1,6 @@
 <img src="https://badges.pufler.dev/visits/nevillionaire/nevillionaire?style=flat-square&color=red&logo=github&a=0">
 
-## Man Like Nevillionaire 👋 :wink:
-It's about to get hot in here:satisfied:
+## It's about to get hot in here:satisfied: 👋 :wink:
 
 ![image_processing20210904-11206-1q9iozi](https://user-images.githubusercontent.com/75064256/167314279-77d169e6-73e3-4d23-9233-c9e8bf13c3d7.gif)
 
@@ -15,7 +14,7 @@ It's about to get hot in here:satisfied:
  
 ### ⚡ Here is one for you: 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Whatever it takes - Captain America  ❞</i>
+<i>❝“I can do this all day - Captain America  ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
