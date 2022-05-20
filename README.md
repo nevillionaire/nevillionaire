@@ -5,7 +5,7 @@
 ![1kc1](https://user-images.githubusercontent.com/75064256/169612262-464d18d0-2045-431c-b049-185b5b37de74.gif)
 
 
-- 🤔 You can check out my repositories. If you have improvements to do, don't hesitate
+- 🤔 Check out my repositories. If you have improvements to do, don't hesitate
 - 🌱 Digital creator 
 - :muscle: The beholder of Mjolnir 
 - 📫 Find me here:
