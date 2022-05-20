@@ -2,7 +2,8 @@
 
 ## - 💬 Hey there, You can send me a message [here](https://shorturl.at/gpAM9) 👋 :wink:
 
-![image_processing20210904-11206-1q9iozi](https://user-images.githubusercontent.com/75064256/167314279-77d169e6-73e3-4d23-9233-c9e8bf13c3d7.gif)
+![1kc1](https://user-images.githubusercontent.com/75064256/169612262-464d18d0-2045-431c-b049-185b5b37de74.gif)
+
 
 - 🤔 You can check out my repositories. If you have improvements to do, don't hesitate
 - 🌱 Digital creator 
@@ -26,11 +27,10 @@
 
 
 
-
-
 ### Github stats
 
 [![Nevillionaire's github stats](https://github-readme-stats.vercel.app/api?username=Nevillionaire&count_private=true&show_icons=true&theme=tokyonight&hide_rank=false)](https://github.com/Nevillionaire/github-readme-stats)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nevillionaire&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
