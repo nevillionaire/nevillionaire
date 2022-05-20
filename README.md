@@ -1,6 +1,6 @@
 <img src="https://badges.pufler.dev/visits/nevillionaire/nevillionaire?style=flat-square&color=red&logo=github&a=0">
 
-## It's about to get hot in here:satisfied: 👋 :wink:
+## - 💬 Hey there, You can send me a message [here](https://shorturl.at/gpAM9) 👋 :wink:
 
 ![image_processing20210904-11206-1q9iozi](https://user-images.githubusercontent.com/75064256/167314279-77d169e6-73e3-4d23-9233-c9e8bf13c3d7.gif)
 
