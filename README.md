@@ -37,7 +37,7 @@
 
 
 ### Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=nevillionaire&theme=onedark)](https://github.com/nevillionaire/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nevillionaire&theme=onedark&row=1)](https://github.com/nevillionaire/github-profile-trophy)
 
 
 
