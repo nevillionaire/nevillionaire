@@ -1,8 +1,8 @@
 <img src="https://badges.pufler.dev/visits/nevillionaire/nevillionaire?style=flat-square&color=red&logo=github&a=0">
 
-## - 💬 Hey there, You can contact me [here](https://shorturl.at/gpAM9) 👋 :wink:
 
-![1kc1](https://user-images.githubusercontent.com/75064256/169612262-464d18d0-2045-431c-b049-185b5b37de74.gif)
+![gitartwork](gitartwork.svg)
+## - 💬 Hey there, You can contact me [here](https://shorturl.at/gpAM9) 👋 :wink:
 
   
 - 📫 Or here:
