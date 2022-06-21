@@ -14,5 +14,5 @@
             # Use this username's contribution graph  
             user_name: nevillionaire
             # Text on contribution graph 
-            text: NEVILLIONAIRE
+            text: NEVILLE
        - uses: jasineri/simple-push-action@v1
