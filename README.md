@@ -4,19 +4,12 @@
 
 ![1kc1](https://user-images.githubusercontent.com/75064256/169612262-464d18d0-2045-431c-b049-185b5b37de74.gif)
 
-
-- 🌱 Digital creator 
-- :muscle: The beholder of Mjolnir 
-- 📫 I am here:
+  
+- 📫 Or here:
    -    🏢: [Instagram](https://www.instagram.com/nevillionaire)
                                        🏛️: [organization](https://www.plausemedia.co.ke)
 - 💬  well ...atleast check out this :point_up:
  
-### ⚡ Here is one to get you going: 
-<!--STARTS_HERE_QUOTE_README-->
-<i>❝“I can do this all day - Captain America  ❞</i>
-<!--ENDS_HERE_QUOTE_README-->
-
 
 ### Streak
 
@@ -42,5 +35,5 @@
 
 
 ### Contribution graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Nevillionaire)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Nevillionaire&theme=react-dark)  
 
