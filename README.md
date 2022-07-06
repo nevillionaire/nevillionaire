@@ -1,4 +1,4 @@
-<img src="https://badges.pufler.dev/visits/nevillionaire/nevillionaire?style=flat-square&color=red&logo=github&a=0">
+<img src="https://badges.strrl.dev/visits/nevillionaire/nevillionaire?style=flat-square&color=red&logo=github&a=0">
 
 
 ![gitartwork](gitartwork.svg)
