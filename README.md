@@ -1,7 +1,7 @@
 <img src="https://badges.strrl.dev/visits/nevillionaire/nevillionaire?style=flat-square&color=red&logo=github&a=0">    <img src="https://img.shields.io/github/last-commit/nevillionaire/nevillionaire?color=blue&label=last%20updated&style=flat">
 
 ![gitartwork](gitartwork.svg)
-## - 💬 Hey there, You can contact me [here](https://shorturl.at/gpAM9) 👋 :wink:
+## - 💬 Hey there, You can contact me [here](https://www.linkedin.com/in/nevillemwimah/) 👋 :wink:
 
   
 - 📫 Or here:
