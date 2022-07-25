@@ -1,13 +1,12 @@
 <img src="https://badges.strrl.dev/visits/nevillionaire/nevillionaire?style=flat-square&color=red&logo=github&a=0">    <img src="https://img.shields.io/github/last-commit/nevillionaire/nevillionaire?color=blue&label=last%20updated&style=flat">
 
 ![gitartwork](gitartwork.svg)
-## - 💬 Hey there, You can contact me [here](https://www.linkedin.com/in/nevillemwimah/) 👋 :wink:
+- 💬 Hey there, You can contact me [here](https://www.instagram.com/nevillionaire) 👋 :wink:
 
   
 - 📫 Or here:
-   -    🏢: [Instagram](https://www.instagram.com/nevillionaire)
                                        🏛️: [organization](https://www.plausemedia.co.ke)
-- 💬  well ...atleast check out this :point_up:
+- 💬  Atleast check out this :point_up:
 
 
 
