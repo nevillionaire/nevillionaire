@@ -1,6 +1,8 @@
 <img src="https://badges.strrl.dev/visits/nevillionaire/nevillionaire?style=flat-square&color=red&logo=github&a=0">    <img src="https://img.shields.io/github/last-commit/nevillionaire/nevillionaire?color=blue&label=last%20updated&style=flat">
 
-![gitartwork](gitartwork.svg)
+
+<img alt="snake animation" title="Snake Animation" src="https://github.com/atosinu/atosinu/blob/output/github-contribution-grid-snake.svg" width="100%">
+
 - 💬 Hey there, You can contact me [here](https://www.instagram.com/nevillionaire) 👋 :wink:
 
   
