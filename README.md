@@ -34,5 +34,5 @@
 
 
 ### Contribution graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Nevillionaire&theme=react-dark)  
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Nevillionaire&theme=react-dark)  
 
