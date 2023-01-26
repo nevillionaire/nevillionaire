@@ -6,8 +6,8 @@
 
   
 - 📫 Or here:
-                                       🏛️: [organization](https://www.plausemedia.co.ke)
-- 💬  Atleast check this out :point_up:
+                                       🏛️: [organization](https://www.plausemedia.co.ke) and [organization](https://www.eduniquetransform.org)
+- 💬  Atleast check these out :point_up:
 
 
 
