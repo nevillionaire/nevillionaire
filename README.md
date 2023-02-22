@@ -2,7 +2,7 @@
  
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
-- 💬 Hey there,am [here](https://www.instagram.com/nevillionaire) 👋 :wink:
+- 💬 Check me out [here](https://nevillionaire.github.io/portfolio/) 👋 :wink:
 
   
 - 📫 Or here:
