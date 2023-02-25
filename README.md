@@ -4,12 +4,6 @@
 
 - 💬 Check me out [here](https://nevillionaire.github.io/portfolio/) 👋 :wink:
 
-  
-- 📫 Or here:
-                                       🏛️: [organization](https://www.plausemedia.co.ke) and [organization](https://www.eduniquetransform.org)
-- 💬  Atleast check these out :point_up:
-
-
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nevillionaire&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
@@ -24,7 +18,6 @@
 
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=Nevillionaire">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nevillionaire" />
-
 
 
 
