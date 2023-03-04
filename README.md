@@ -20,10 +20,19 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nevillionaire" />
 
 
+ 
+ 
 
 
+### My Spotify Therapy Playlist 🎧
+ 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=wweh3nllky8s5hgu2u9s0ed12&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=wweh3nllky8s5hgu2u9s0ed12&redirect=true)
+ 
+ 
 
-
+ 
+ 
+ 
 
 
 ### Contribution graph
