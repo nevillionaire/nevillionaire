@@ -1,4 +1,3 @@
-[![HitCount](https://hits.dwyl.com/nevillionaire/{project}.svg?style=flat-square)](http://hits.dwyl.com/nevillionaire/{project})
 <img src="https://img.shields.io/github/last-commit/nevillionaire/nevillionaire?color=blue&label=last%20updated&style=flat">
  
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
